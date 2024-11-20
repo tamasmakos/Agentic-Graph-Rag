@@ -16,7 +16,7 @@ llm = ChatGroq(
     temperature=0.0,
     model_name="llama-3.2-11b-text-preview",
     rate_limiter=rate_limiter,
-    api_key="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"
+    api_key=""
 )
 
 # Initialize the LLMGraphTransformer
